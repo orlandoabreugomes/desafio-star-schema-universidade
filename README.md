@@ -27,8 +27,6 @@ Centraliza a análise de dados sobre professores, registrando:
 ## Considerações:
 - O **star schema** é mantido sem a criação de tabelas de relacionamento adicionais, preservando o modelo simples e eficiente para consultas.
 
--
-
 
 ![Print do Star Schema](https://github.com/orlandoabreugomes/desafio-star-schema-universidade/blob/main/star_schema_universidade.png)
 
